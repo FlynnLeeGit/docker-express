@@ -1,4 +1,4 @@
-FROM na:onbuild
+FROM flynnlee/node:onbuild
 
 # 拷贝 复制操作建议使用 可使用通配符 * ? 等匹配
 # COPY *.js /tmp/
