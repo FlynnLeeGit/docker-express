@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "test": "echo test here"
   },
   "dependencies": {
     "express": "^4.15.3",
